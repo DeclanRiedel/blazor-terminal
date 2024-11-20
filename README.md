@@ -1,2 +1,2 @@
 # TerminalBlazor
-fun little web terminal that should be easy to extend functionality
+fun little terminal look-a-like easily extendable
