@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\decla\\TerminalBlazor\\TerminalBlazor.csproj": {}
+    "/home/declan/Devel/myrepos/terminalblazor/TerminalBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\decla\\TerminalBlazor\\TerminalBlazor.csproj": {
+    "/home/declan/Devel/myrepos/terminalblazor/TerminalBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\decla\\TerminalBlazor\\TerminalBlazor.csproj",
+        "projectUniqueName": "/home/declan/Devel/myrepos/terminalblazor/TerminalBlazor.csproj",
         "projectName": "TerminalBlazor",
-        "projectPath": "C:\\Users\\decla\\TerminalBlazor\\TerminalBlazor.csproj",
-        "packagesPath": "C:\\Users\\decla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\decla\\TerminalBlazor\\obj\\",
+        "projectPath": "/home/declan/Devel/myrepos/terminalblazor/TerminalBlazor.csproj",
+        "packagesPath": "/home/declan/.nuget/packages/",
+        "outputPath": "/home/declan/Devel/myrepos/terminalblazor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\decla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/declan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/nix/store/xbnpbibdqy8rivl28g613nh9vlpq0jrg-dotnet-sdk-8.0.401/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

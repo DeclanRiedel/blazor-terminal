@@ -9,35 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TerminalBlazor
 build_property.RootNamespace = TerminalBlazor
-build_property.ProjectDir = C:\Users\decla\TerminalBlazor\
+build_property.ProjectDir = /home/declan/Devel/myrepos/terminalblazor/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\decla\TerminalBlazor
+build_property.MSBuildProjectDirectory = /home/declan/Devel/myrepos/terminalblazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/decla/TerminalBlazor/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+[/home/declan/Devel/myrepos/terminalblazor/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/decla/TerminalBlazor/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+[/home/declan/Devel/myrepos/terminalblazor/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/decla/TerminalBlazor/Components/Pages/Terminal.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUZXJtaW5hbC5yYXpvcg==
+[/home/declan/Devel/myrepos/terminalblazor/Components/Pages/Terminal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UZXJtaW5hbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/decla/TerminalBlazor/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+[/home/declan/Devel/myrepos/terminalblazor/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/decla/TerminalBlazor/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+[/home/declan/Devel/myrepos/terminalblazor/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/decla/TerminalBlazor/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-30bp8tbyw1
+[/home/declan/Devel/myrepos/terminalblazor/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-qp17ny2swo

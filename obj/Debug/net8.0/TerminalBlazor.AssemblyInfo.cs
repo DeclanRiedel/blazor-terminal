@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TerminalBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d1988de5ee5b9a24a2ef77f4fb85e0dd28593db")]
 [assembly: System.Reflection.AssemblyProductAttribute("TerminalBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TerminalBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

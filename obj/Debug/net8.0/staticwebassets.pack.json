@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\decla\\TerminalBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TerminalBlazor.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TerminalBlazor.bundle.scp.css"
+      "Id": "/home/declan/Devel/myrepos/terminalblazor/obj/Debug/net8.0/scopedcss/projectbundle/TerminalBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets/TerminalBlazor.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\decla\\TerminalBlazor\\wwwroot\\app.css",
-      "PackagePath": "staticwebassets\\app.css"
+      "Id": "/home/declan/Devel/myrepos/terminalblazor/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "C:\\Users\\decla\\TerminalBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+      "Id": "/home/declan/Devel/myrepos/terminalblazor/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\decla\\TerminalBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+      "Id": "/home/declan/Devel/myrepos/terminalblazor/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\decla\\TerminalBlazor\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "/home/declan/Devel/myrepos/terminalblazor/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TerminalBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TerminalBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TerminalBlazor.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TerminalBlazor.props",
       "PackagePath": "build\\TerminalBlazor.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TerminalBlazor.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TerminalBlazor.props",
       "PackagePath": "buildMultiTargeting\\TerminalBlazor.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TerminalBlazor.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TerminalBlazor.props",
       "PackagePath": "buildTransitive\\TerminalBlazor.props"
     }
   ],
